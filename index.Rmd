@@ -258,9 +258,6 @@ class: inverse, center, middle
 
 ]
 
-.pull-right[
-
-]
 ---
 
 .pull-left[
@@ -316,7 +313,7 @@ Buat selang kepercayaan 95% bagi nilai tengah seluruh mahasiswa tingkat akhir!
 **Contoh**
 
 Sebuah mesin minuman ringan diatur sehingga banyaknya minuman yang dikeluarkan menyebar normal dengan simpangan baku 1.5 desiliter.
-Berapa ukuran contoh yang diperlukan pada tingkat kepercayaan 95% untuk rata-rata banyaknya minuman yang dikeluarkan oleh mesin bila rata-rata contoh berada pada 0.3 desiliter dari nilai tengah sebenarnya?
+Berapa ukuran contoh yang diperlukan pada tingkat kepercayaan 95% untuk rata-rata banyaknya minuman yang dikeluarkan oleh mesin bila rata-rata contoh berada pada 0.3 desiliter dari nilai tengah sampel?
 
 ___
 
@@ -405,7 +402,7 @@ $v=\dfrac{\left(\dfrac{s^2_1}{n_1}+\dfrac{s^2_2}{n_2}\right)^2}{\dfrac{\left(\df
 **Contoh**
 
 Suatu perusahaan taksi sedang mengevaluasi apakah akan menggunakan Ban A atau Ban B. Untuk menduga beda kedua merk tersebut, dilakukan percobaan dengan mengambil 12
-ban untuk masing-masing-masing merk. Semua ban tersebut dicoba, dan dicatat lama waktunya sampai harus diganti (dalam hari).
+ban untuk masing-masing-masing merk. Semua ban tersebut dicoba, dan dicatat lama waktunya sampai harus diganti (dalam jam).
 
 | Sample | N | Mean | StDev |
 |:-      | :-: |:-: | :-: |
