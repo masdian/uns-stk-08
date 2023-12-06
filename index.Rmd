@@ -404,7 +404,7 @@ $v=\dfrac{\left(\dfrac{s^2_1}{n_1}+\dfrac{s^2_2}{n_2}\right)^2}{\dfrac{\left(\df
 Suatu perusahaan taksi sedang mengevaluasi apakah akan menggunakan Ban A atau Ban B. Untuk menduga beda kedua merk tersebut, dilakukan percobaan dengan mengambil 12
 ban untuk masing-masing-masing merk. Semua ban tersebut dicoba, dan dicatat lama waktunya sampai harus diganti (dalam jam).
 
-| Sample | N | Mean | StDev |
+| Sample | N | Mean | $s^2$ |
 |:-      | :-: |:-: | :-: |
 | 1 | 12 | 36300 | 5000 |
 | 2 | 12 | 38100 | 6100 |
